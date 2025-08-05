@@ -32,38 +32,6 @@ cv2.index = function(data,
   return(output)
 }
 
-cv1.index = function(data,
-                     K = 5,
-                     Reps = 10,
-                     GID.name = "GID",
-                     Env.name = "Env"
-){
-  
-  n.GID = length(unique(data[,GID.name]))
-  
-  fold.size = rep(n.GID%/%K,K)
-  fold.size = fold.size + c(rep(1,n.GID%%K),rep(0,K-n.GID%%K))
-  
-  output = list()
-  for (r in 1:Reps){
-    full.index = sample(seq(n.GID),n.GID)
-    folds = list()
-    sort.index = c()
-    
-    end = 0
-    for (k in 1:K){
-      start = end+1
-      end = end + fold.size[k]
-      test.lines = unique(data[,GID.name])[full.index[start:end]]
-      folds[[paste("K",k,sep="")]] = sort(which(data[,GID.name] %in% test.lines))
-      sort.index = c(sort.index,sort(which(data[,GID.name] %in% test.lines)))
-    }
-    
-    output[[paste("R",r,sep="")]] = list(full.index = sort.index,
-                                         folds = folds)
-  }
-  return(output)
-}
 
 cv1.index = function(data,
                      K = 5,
