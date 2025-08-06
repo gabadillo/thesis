@@ -179,7 +179,7 @@ BOKU.temp$Date.num = as.numeric(as.Date(BOKU.temp$Date)-origin)
 Anth.20.1 = MASS::fitdistr(tmp$Date.num[1:230],"normal")
 Anth.20.2 = MASS::fitdistr(tmp$Date.num[231:460],"normal")
 Anth.21.1 = MASS::fitdistr(tmp$Date.num[461:690],"normal")
-Anth.21.2 = MASS::fitdistr(tmp$Date.num[461:920],"normal")
+Anth.21.2 = MASS::fitdistr(tmp$Date.num[691:920],"normal")
 
 # #### residual variance vare depends on h2 and varg (var.a or var.b))
 h2s = c(1,0.8, 0.5, 0.2)
