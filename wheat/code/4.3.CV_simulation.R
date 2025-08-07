@@ -75,12 +75,12 @@ for (sc in names(Scenarios)){
       
       #########
       Pheno$Env = "World"
-      cv.object = cv1.index(data = Pheno, Reps = Reps)
+      cv.object = cv2.index(data = Pheno, Reps = Reps)
       for (r in 1:length(cv.object)){
         GEBVs.vector = c()
         for (k in 1:length(cv.object[[r]]$folds)){
           print(paste(sc,h2s[h],ys,r,k,sep="."))
-          sp = split.set(cv.object,"cv1",r,k)
+          sp = split.set(cv.object,"cv2",r,k)
           train.set = Pheno[sp$TRS.index,]
           test.set  = Pheno[sp$TS.index,]
           Ztest = model.matrix(~test.set$GID-1)

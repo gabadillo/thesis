@@ -83,7 +83,7 @@ for (t in Trials){
   Pheno = tmp %>% filter(Trial == t)
   Pheno = Pheno[Pheno$GID%in%intersectnames,]
   Pheno$GID = factor(Pheno$GID, levels = rownames((W)))
-  cv.object = cv1.index(Pheno, GID.name = 'GID', Reps = Reps)
+  cv.object = cv2.index(Pheno, GID.name = 'GID', Reps = Reps)
   for (ys in Ys){
     for (r in 1:length(cv.object)){
       print(paste(t,
@@ -92,7 +92,7 @@ for (t in Trials){
                   sep="."))
       GEBVs.matrix = matrix(ncol = 4)
       for (k in 1:length(cv.object[[r]]$folds)){
-        sp = split.set(cv.object,"cv1",r,k)
+        sp = split.set(cv.object,"cv2",r,k)
         train.set = Pheno[sp$TRS.index,]
         test.set  = Pheno[sp$TS.index,]
         #Ztrain = model.matrix(~train.set$GID-1)
