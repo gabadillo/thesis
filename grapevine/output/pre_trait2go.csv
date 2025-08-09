@@ -1,0 +1,520 @@
+Trait,Gene,Entry,Type,ID,Name
+B_shape,Vitvi01g00836,A0A438EHM8,Gene.Ontology..biological.process.,GO:0009793,embryo development ending in seed dormancy
+B_shape,Vitvi01g00836,A0A438EHM8,Gene.Ontology..biological.process.,GO:0009651,response to salt stress
+B_shape,Vitvi01g00836,A0A438EHM8,Gene.Ontology..cellular.component.,GO:0016607,nuclear speck
+B_shape,Vitvi01g00836,A0A438EHM8,Gene.Ontology..molecular.function.,GO:0008174,mRNA methyltransferase activity
+B_shape,Vitvi01g00836,F6HPK3,Gene.Ontology..biological.process.,GO:0009793,embryo development ending in seed dormancy
+B_shape,Vitvi01g00836,F6HPK3,Gene.Ontology..biological.process.,GO:0080009,mRNA methylation
+B_shape,Vitvi01g00836,F6HPK3,Gene.Ontology..biological.process.,GO:0009651,response to salt stress
+B_shape,Vitvi01g00836,F6HPK3,Gene.Ontology..cellular.component.,GO:0016607,nuclear speck
+B_shape,Vitvi01g00836,F6HPK3,Gene.Ontology..cellular.component.,GO:0036396,RNA N6-methyladenosine methyltransferase complex
+B_shape,Vitvi01g00836,F6HPK3,Gene.Ontology..molecular.function.,GO:0008174,mRNA methyltransferase activity
+S_dry,Vitvi01g01459,NA,NA,NA,NA
+S_dry,Vitvi01g02196,NA,NA,NA,NA
+S_fresh,Vitvi01g02270,NA,NA,NA,NA
+S_fresh,Vitvi01g01663,NA,NA,NA,NA
+S_fresh,Vitvi01g01664,NA,NA,NA,NA
+H_cluster,Vitvi02g00042,A0A438J5F9,Gene.Ontology..molecular.function.,GO:0051087,chaperone binding
+H_cluster,Vitvi02g01316,NA,NA,NA,NA
+H_cluster,Vitvi02g00041,F6HUN5,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+P_rachis_weight,Vitvi02g00305,NA,NA,NA,NA
+P_rachis_weight,Vitvi02g01376,NA,NA,NA,NA
+P_rachis_weight,Vitvi02g01377,NA,NA,NA,NA
+P_rachis_weight,Vitvi02g00306,NA,NA,NA,NA
+P_rachis_weight,Vitvi02g00307,NA,NA,NA,NA
+B_width,Vitvi02g00330,NA,NA,NA,NA
+B_width,Vitvi02g00329,A0A438JJ64,Gene.Ontology..biological.process.,GO:0032259,methylation
+B_width,Vitvi02g00329,A0A438JJ64,Gene.Ontology..biological.process.,GO:0006355,regulation of DNA-templated transcription
+B_width,Vitvi02g00329,A0A438JJ64,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+B_width,Vitvi02g00329,A0A438JJ64,Gene.Ontology..molecular.function.,GO:0003677,DNA binding
+B_width,Vitvi02g00329,A0A438JJ64,Gene.Ontology..molecular.function.,GO:0046872,metal ion binding
+B_width,Vitvi02g00329,A0A438JJ64,Gene.Ontology..molecular.function.,GO:0008168,methyltransferase activity
+P_cluster_loss,Vitvi02g00421,F6HUI6,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+P_cluster_loss,Vitvi02g00421,F6HUI6,Gene.Ontology..molecular.function.,GO:0003700,DNA-binding transcription factor activity
+P_cluster_loss,Vitvi02g00421,F6HUI6,Gene.Ontology..molecular.function.,GO:0043565,sequence-specific DNA binding
+P_cluster_loss,Vitvi02g00422,A0A438JJS8,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+P_cluster_loss,Vitvi02g00422,A0A438JJS8,Gene.Ontology..molecular.function.,GO:0004252,serine-type endopeptidase activity
+P_cluster_loss,Vitvi02g00422,D7TW90,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+P_cluster_loss,Vitvi02g00422,D7TW90,Gene.Ontology..molecular.function.,GO:0004252,serine-type endopeptidase activity
+P_cluster_loss,Vitvi02g00420,D7TW88,Gene.Ontology..biological.process.,GO:0006084,acetyl-CoA metabolic process
+P_cluster_loss,Vitvi02g00420,D7TW88,Gene.Ontology..biological.process.,GO:0010142,"farnesyl diphosphate biosynthetic process, mevalonate pathway"
+P_cluster_loss,Vitvi02g00420,D7TW88,Gene.Ontology..biological.process.,GO:0016126,sterol biosynthetic process
+P_cluster_loss,Vitvi02g00420,D7TW88,Gene.Ontology..molecular.function.,GO:0004421,hydroxymethylglutaryl-CoA synthase activity
+P_cluster_loss,Vitvi02g00420,A0A438BZ91,Gene.Ontology..biological.process.,GO:0006084,acetyl-CoA metabolic process
+P_cluster_loss,Vitvi02g00420,A0A438BZ91,Gene.Ontology..biological.process.,GO:0010142,"farnesyl diphosphate biosynthetic process, mevalonate pathway"
+P_cluster_loss,Vitvi02g00420,A0A438BZ91,Gene.Ontology..molecular.function.,GO:0004421,hydroxymethylglutaryl-CoA synthase activity
+S_fresh,Vitvi02g01487,NA,NA,NA,NA
+B_height,Vitvi03g00297,NA,NA,NA,NA
+B_height,Vitvi03g00298,F6I0M1,Gene.Ontology..biological.process.,GO:0006950,response to stress
+B_height,Vitvi03g00298,F6I0M1,Gene.Ontology..molecular.function.,GO:0005524,ATP binding
+B_height,Vitvi03g00298,F6I0M1,Gene.Ontology..molecular.function.,GO:0016887,ATP hydrolysis activity
+B_height,Vitvi03g00299,NA,NA,NA,NA
+B_shape,Vitvi04g02037,A0A438JQP1,Gene.Ontology..biological.process.,GO:0006086,acetyl-CoA biosynthetic process from pyruvate
+B_shape,Vitvi04g02037,A0A438JQP1,Gene.Ontology..molecular.function.,GO:0004739,pyruvate dehydrogenase (acetyl-transferring) activity
+B_shape,Vitvi04g02037,F6HI27,Gene.Ontology..biological.process.,GO:0006086,acetyl-CoA biosynthetic process from pyruvate
+B_shape,Vitvi04g02037,F6HI27,Gene.Ontology..molecular.function.,GO:0004739,pyruvate dehydrogenase (acetyl-transferring) activity
+B_shape,Vitvi04g01015,NA,NA,NA,NA
+P_rachis_weight,Vitvi04g01186,D7SPN4,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+P_rachis_weight,Vitvi04g01186,D7SPN4,Gene.Ontology..biological.process.,GO:0019748,secondary metabolic process
+P_rachis_weight,Vitvi04g01186,D7SPN4,Gene.Ontology..cellular.component.,GO:0005576,extracellular region
+P_rachis_weight,Vitvi04g01186,D7SPN4,Gene.Ontology..molecular.function.,GO:0016747,"acyltransferase activity, transferring groups other than amino-acyl groups"
+P_rachis_weight,Vitvi04g01186,D7SPN4,Gene.Ontology..molecular.function.,GO:0004185,serine-type carboxypeptidase activity
+P_rachis_weight,Vitvi04g01187,NA,NA,NA,NA
+S_dry,Vitvi04g01366,D7SP77,Gene.Ontology..biological.process.,GO:0051603,proteolysis involved in protein catabolic process
+S_dry,Vitvi04g01366,D7SP77,Gene.Ontology..cellular.component.,GO:0005615,extracellular space
+S_dry,Vitvi04g01366,D7SP77,Gene.Ontology..cellular.component.,GO:0005764,lysosome
+S_dry,Vitvi04g01366,D7SP77,Gene.Ontology..molecular.function.,GO:0004197,cysteine-type endopeptidase activity
+S_dry,Vitvi04g01364,NA,NA,NA,NA
+S_dry,Vitvi04g01367,NA,NA,NA,NA
+H_cluster,Vitvi04g01437,A0A438EUW9,Gene.Ontology..molecular.function.,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+H_cluster,Vitvi04g01437,A0A438EUY4,Gene.Ontology..cellular.component.,GO:0016020,membrane
+H_cluster,Vitvi04g01437,A0A438EUY4,Gene.Ontology..molecular.function.,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+H_cluster,Vitvi04g01437,D7SP13,Gene.Ontology..cellular.component.,GO:0005829,cytosol
+H_cluster,Vitvi04g01437,D7SP13,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+H_cluster,Vitvi04g01437,D7SP13,Gene.Ontology..molecular.function.,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+H_cluster,Vitvi04g01437,A0A438K671,Gene.Ontology..molecular.function.,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+H_cluster,Vitvi04g01438,D7SP12,Gene.Ontology..biological.process.,GO:0034599,cellular response to oxidative stress
+H_cluster,Vitvi04g01438,D7SP12,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+H_cluster,Vitvi04g01438,D7SP12,Gene.Ontology..molecular.function.,GO:0036456,L-methionine-(S)-S-oxide reductase activity
+H_cluster,Vitvi04g01438,D7SP12,Gene.Ontology..molecular.function.,GO:0008113,peptide-methionine (S)-S-oxide reductase activity
+H_cluster,Vitvi04g01436,F6GWN9,Gene.Ontology..molecular.function.,GO:0046872,metal ion binding
+B_shape,Vitvi05g00035,D7SYB8,Gene.Ontology..cellular.component.,GO:0005739,mitochondrion
+B_shape,Vitvi05g00035,D7SYB8,Gene.Ontology..molecular.function.,GO:0018773,acetylpyruvate hydrolase activity
+B_shape,Vitvi05g00036,NA,NA,NA,NA
+B_shape,Vitvi05g01742,F6H6W4,Gene.Ontology..molecular.function.,GO:0016787,hydrolase activity
+B_shape,Vitvi05g00037,NA,NA,NA,NA
+B_shape,Vitvi05g00034,NA,NA,NA,NA
+B_width,Vitvi05g00089,F6H740,Gene.Ontology..biological.process.,GO:0031222,arabinan catabolic process
+B_width,Vitvi05g00089,F6H740,Gene.Ontology..biological.process.,GO:0045493,xylan catabolic process
+B_width,Vitvi05g00089,F6H740,Gene.Ontology..cellular.component.,GO:0005576,extracellular region
+B_width,Vitvi05g00089,F6H740,Gene.Ontology..molecular.function.,GO:0046556,alpha-L-arabinofuranosidase activity
+B_width,Vitvi05g00089,F6H740,Gene.Ontology..molecular.function.,GO:0009044,"xylan 1,4-beta-xylosidase activity"
+B_width,Vitvi05g00089,A0A438DWR0,Gene.Ontology..biological.process.,GO:0045493,xylan catabolic process
+B_width,Vitvi05g00089,A0A438DWR0,Gene.Ontology..cellular.component.,GO:0005576,extracellular region
+B_width,Vitvi05g00089,A0A438DWR0,Gene.Ontology..molecular.function.,GO:0009044,"xylan 1,4-beta-xylosidase activity"
+B_width,Vitvi05g00090,NA,NA,NA,NA
+B_width,Vitvi05g00091,NA,NA,NA,NA
+B_height,Vitvi05g00104,A0A438DX26,Gene.Ontology..molecular.function.,GO:0003676,nucleic acid binding
+B_height,Vitvi05g00104,A0A438DX26,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+B_height,Vitvi05g00104,F6H735,Gene.Ontology..molecular.function.,GO:0003676,nucleic acid binding
+B_height,Vitvi05g00104,F6H735,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..biological.process.,GO:0001193,maintenance of transcriptional fidelity during transcription elongation by RNA polymerase II
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..biological.process.,GO:0006379,mRNA cleavage
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..biological.process.,GO:0006367,transcription initiation at RNA polymerase II promoter
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..biological.process.,GO:0006283,transcription-coupled nucleotide-excision repair
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..cellular.component.,GO:0005730,nucleolus
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..cellular.component.,GO:0005665,"RNA polymerase II, core complex"
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..molecular.function.,GO:0003899,DNA-directed 5-3 RNA polymerase activity
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..molecular.function.,GO:0003676,nucleic acid binding
+B_height,Vitvi05g00105,A5AGZ7,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+B_height,Vitvi05g00105,A0A438IQW7,Gene.Ontology..biological.process.,GO:0006351,DNA-templated transcription
+B_height,Vitvi05g00105,A0A438IQW7,Gene.Ontology..biological.process.,GO:0006379,mRNA cleavage
+B_height,Vitvi05g00105,A0A438IQW7,Gene.Ontology..cellular.component.,GO:0000428,DNA-directed RNA polymerase complex
+B_height,Vitvi05g00105,A0A438IQW7,Gene.Ontology..molecular.function.,GO:0003899,DNA-directed 5-3 RNA polymerase activity
+B_height,Vitvi05g00105,A0A438IQW7,Gene.Ontology..molecular.function.,GO:0003676,nucleic acid binding
+B_height,Vitvi05g00105,A0A438IQW7,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+B_height,Vitvi05g00106,F6H734,Gene.Ontology..biological.process.,GO:0007010,cytoskeleton organization
+B_height,Vitvi05g00106,F6H734,Gene.Ontology..biological.process.,GO:0008360,regulation of cell shape
+B_height,Vitvi05g00106,F6H734,Gene.Ontology..biological.process.,GO:0006357,regulation of transcription by RNA polymerase II
+B_height,Vitvi05g00106,F6H734,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+B_height,Vitvi05g00234,NA,NA,NA,NA
+B_height,Vitvi05g00235,A0A438KKU3,Gene.Ontology..molecular.function.,GO:0140824,thioredoxin-dependent peroxiredoxin activity
+B_height,Vitvi05g00235,D7T674,Gene.Ontology..biological.process.,GO:0045454,cell redox homeostasis
+B_height,Vitvi05g00235,D7T674,Gene.Ontology..cellular.component.,GO:0005829,cytosol
+B_height,Vitvi05g00235,D7T674,Gene.Ontology..cellular.component.,GO:0005739,mitochondrion
+B_height,Vitvi05g00235,D7T674,Gene.Ontology..molecular.function.,GO:0140824,thioredoxin-dependent peroxiredoxin activity
+B_height,Vitvi05g00232,NA,NA,NA,NA
+B_height,Vitvi05g00237,NA,NA,NA,NA
+B_height,Vitvi05g00236,A0A438KLB2,Gene.Ontology..molecular.function.,GO:0030247,polysaccharide binding
+B_height,Vitvi05g00236,D7T675,Gene.Ontology..molecular.function.,GO:0030247,polysaccharide binding
+B_width,Vitvi06g01678,D7SKN3,Gene.Ontology..cellular.component.,GO:0016020,membrane
+B_width,Vitvi06g00389,F6GTU9,Gene.Ontology..biological.process.,GO:0000289,nuclear-transcribed mRNA poly(A) tail shortening
+B_width,Vitvi06g00389,F6GTU9,Gene.Ontology..biological.process.,GO:0006355,regulation of DNA-templated transcription
+B_width,Vitvi06g00389,F6GTU9,Gene.Ontology..cellular.component.,GO:0030015,CCR4-NOT core complex
+B_width,Vitvi06g00389,F6GTU9,Gene.Ontology..cellular.component.,GO:0000932,P-body
+B_width,Vitvi06g01679,NA,NA,NA,NA
+B_width,Vitvi06g00390,NA,NA,NA,NA
+B_width,Vitvi07g00394,A5BIW0,Gene.Ontology..biological.process.,GO:0042026,protein refolding
+B_width,Vitvi07g00394,A5BIW0,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+B_width,Vitvi07g00394,A5BIW0,Gene.Ontology..molecular.function.,GO:0051087,chaperone binding
+B_width,Vitvi07g00394,A5BIW0,Gene.Ontology..molecular.function.,GO:0051082,unfolded protein binding
+B_width,Vitvi07g02218,A0A438IXP8,Gene.Ontology..molecular.function.,GO:0046982,protein heterodimerization activity
+B_shape,Vitvi08g00843,D7SR06,Gene.Ontology..biological.process.,GO:0035556,intracellular signal transduction
+B_shape,Vitvi08g00843,D7SR06,Gene.Ontology..biological.process.,GO:0048573,"photoperiodism, flowering"
+B_shape,Vitvi08g00843,D7SR06,Gene.Ontology..biological.process.,GO:0006468,protein phosphorylation
+B_shape,Vitvi08g00843,D7SR06,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+B_shape,Vitvi08g00843,D7SR06,Gene.Ontology..molecular.function.,GO:0005524,ATP binding
+B_shape,Vitvi08g00843,D7SR06,Gene.Ontology..molecular.function.,GO:0043424,protein histidine kinase binding
+B_shape,Vitvi08g00843,D7SR06,Gene.Ontology..molecular.function.,GO:0004674,protein serine/threonine kinase activity
+B_shape,Vitvi08g00842,NA,NA,NA,NA
+B_height,Vitvi08g00928,A0A438J7R1,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+B_height,Vitvi08g00928,A0A438J7R1,Gene.Ontology..molecular.function.,GO:0004190,aspartic-type endopeptidase activity
+B_height,Vitvi08g00928,F6HQQ8,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+B_height,Vitvi08g00928,F6HQQ8,Gene.Ontology..cellular.component.,GO:0005576,extracellular region
+B_height,Vitvi08g00928,F6HQQ8,Gene.Ontology..molecular.function.,GO:0004190,aspartic-type endopeptidase activity
+B_height,Vitvi08g02111,A0A438J7I0,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+B_height,Vitvi08g02111,A0A438J7I0,Gene.Ontology..molecular.function.,GO:0004190,aspartic-type endopeptidase activity
+B_height,Vitvi08g00929,NA,NA,NA,NA
+B_height,Vitvi08g00930,NA,NA,NA,NA
+B_width,Vitvi08g01494,A0A438JSK6,Gene.Ontology..molecular.function.,GO:0016787,hydrolase activity
+B_width,Vitvi08g01494,F6HKI9,Gene.Ontology..molecular.function.,GO:0016787,hydrolase activity
+B_width,Vitvi08g01495,NA,NA,NA,NA
+B_width,Vitvi08g01493,F6HKJ0,Gene.Ontology..cellular.component.,GO:0016020,membrane
+B_width,Vitvi08g01493,F6HKJ0,Gene.Ontology..molecular.function.,GO:0140359,ABC-type transporter activity
+B_width,Vitvi08g01493,F6HKJ0,Gene.Ontology..molecular.function.,GO:0005524,ATP binding
+B_width,Vitvi08g01496,NA,NA,NA,NA
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..biological.process.,GO:0005975,carbohydrate metabolic process
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..biological.process.,GO:0019252,starch biosynthetic process
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..biological.process.,GO:0005982,starch metabolic process
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..cellular.component.,GO:0009501,amyloplast
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..molecular.function.,GO:0003844,"1,4-alpha-glucan branching enzyme activity"
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..molecular.function.,GO:0102752,"1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)"
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..molecular.function.,GO:0043169,cation binding
+B_width,Vitvi08g01497,D7TJ35,Gene.Ontology..molecular.function.,GO:0004553,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+H_cluster,Vitvi08g01521,A0A438JST1,Gene.Ontology..biological.process.,GO:0034599,cellular response to oxidative stress
+H_cluster,Vitvi08g01521,A0A438JST1,Gene.Ontology..molecular.function.,GO:0008379,thioredoxin peroxidase activity
+H_cluster,Vitvi08g01521,F6HKH2,Gene.Ontology..biological.process.,GO:0045454,cell redox homeostasis
+H_cluster,Vitvi08g01521,F6HKH2,Gene.Ontology..biological.process.,GO:0034599,cellular response to oxidative stress
+H_cluster,Vitvi08g01521,F6HKH2,Gene.Ontology..biological.process.,GO:0042744,hydrogen peroxide catabolic process
+H_cluster,Vitvi08g01521,F6HKH2,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+H_cluster,Vitvi08g01521,F6HKH2,Gene.Ontology..molecular.function.,GO:0008379,thioredoxin peroxidase activity
+H_cluster,Vitvi08g01521,G1JT87,Gene.Ontology..biological.process.,GO:0034599,cellular response to oxidative stress
+H_cluster,Vitvi08g01521,G1JT87,Gene.Ontology..molecular.function.,GO:0008379,thioredoxin peroxidase activity
+H_cluster,Vitvi08g01522,NA,NA,NA,NA
+H_cluster,Vitvi08g01523,NA,NA,NA,NA
+B_height,Vitvi08g01795,D7TI83,Gene.Ontology..cellular.component.,GO:0031969,chloroplast membrane
+B_height,Vitvi08g01795,D7TI83,Gene.Ontology..molecular.function.,GO:0004659,prenyltransferase activity
+B_height,Vitvi08g01794,NA,NA,NA,NA
+B_width,Vitvi08g01795,D7TI83,Gene.Ontology..cellular.component.,GO:0031969,chloroplast membrane
+B_width,Vitvi08g01795,D7TI83,Gene.Ontology..molecular.function.,GO:0004659,prenyltransferase activity
+B_width,Vitvi08g02367,F6HLE9,Gene.Ontology..biological.process.,GO:0030490,maturation of SSU-rRNA
+B_width,Vitvi08g02367,F6HLE9,Gene.Ontology..biological.process.,GO:0000028,ribosomal small subunit assembly
+B_width,Vitvi08g02367,F6HLE9,Gene.Ontology..biological.process.,GO:0006412,translation
+B_width,Vitvi08g02367,F6HLE9,Gene.Ontology..cellular.component.,GO:0022627,cytosolic small ribosomal subunit
+B_width,Vitvi08g02367,F6HLE9,Gene.Ontology..molecular.function.,GO:0003735,structural constituent of ribosome
+B_width,Vitvi08g01796,F6HLE8,Gene.Ontology..biological.process.,GO:0000028,ribosomal small subunit assembly
+B_width,Vitvi08g01796,F6HLE8,Gene.Ontology..biological.process.,GO:0006412,translation
+B_width,Vitvi08g01796,F6HLE8,Gene.Ontology..cellular.component.,GO:0022627,cytosolic small ribosomal subunit
+B_width,Vitvi08g01796,F6HLE8,Gene.Ontology..cellular.component.,GO:0005840,ribosome
+B_width,Vitvi08g01796,F6HLE8,Gene.Ontology..molecular.function.,GO:0003729,mRNA binding
+B_width,Vitvi08g01796,F6HLE8,Gene.Ontology..molecular.function.,GO:0019843,rRNA binding
+B_width,Vitvi08g01796,F6HLE8,Gene.Ontology..molecular.function.,GO:0003735,structural constituent of ribosome
+B_width,Vitvi08g01794,NA,NA,NA,NA
+H_cluster,Vitvi08g01881,F6HL08,Gene.Ontology..biological.process.,GO:0006468,protein phosphorylation
+H_cluster,Vitvi08g01881,F6HL08,Gene.Ontology..biological.process.,GO:0048544,recognition of pollen
+H_cluster,Vitvi08g01881,F6HL08,Gene.Ontology..cellular.component.,GO:0016020,membrane
+H_cluster,Vitvi08g01881,F6HL08,Gene.Ontology..molecular.function.,GO:0005524,ATP binding
+H_cluster,Vitvi08g01881,F6HL08,Gene.Ontology..molecular.function.,GO:0004672,protein kinase activity
+H_cluster,Vitvi08g02393,F6HL07,Gene.Ontology..biological.process.,GO:0045839,negative regulation of mitotic nuclear division
+H_cluster,Vitvi08g02393,F6HL07,Gene.Ontology..biological.process.,GO:0032875,regulation of DNA endoreduplication
+H_cluster,Vitvi08g02393,F6HL07,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+H_cluster,Vitvi08g01883,A0A438JL99,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+H_cluster,Vitvi08g01883,A0A438JL99,Gene.Ontology..molecular.function.,GO:0003677,DNA binding
+H_cluster,Vitvi08g01883,A0A438JL99,Gene.Ontology..molecular.function.,GO:0003700,DNA-binding transcription factor activity
+H_cluster,Vitvi08g01883,D7THZ0,Gene.Ontology..biological.process.,GO:0006357,regulation of transcription by RNA polymerase II
+H_cluster,Vitvi08g01883,D7THZ0,Gene.Ontology..cellular.component.,GO:0016602,CCAAT-binding factor complex
+H_cluster,Vitvi08g01883,D7THZ0,Gene.Ontology..molecular.function.,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+H_cluster,Vitvi08g01883,D7THZ0,Gene.Ontology..molecular.function.,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+S_fresh,Vitvi09g00629,A0A438D9P5,Gene.Ontology..biological.process.,GO:0006168,adenine salvage
+S_fresh,Vitvi09g00629,A0A438D9P5,Gene.Ontology..biological.process.,GO:0044209,AMP salvage
+S_fresh,Vitvi09g00629,A0A438D9P5,Gene.Ontology..biological.process.,GO:0006166,purine ribonucleoside salvage
+S_fresh,Vitvi09g00629,A0A438D9P5,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+S_fresh,Vitvi09g00629,A0A438D9P5,Gene.Ontology..molecular.function.,GO:0003999,adenine phosphoribosyltransferase activity
+S_fresh,Vitvi09g00629,D7U146,Gene.Ontology..biological.process.,GO:0006168,adenine salvage
+S_fresh,Vitvi09g00629,D7U146,Gene.Ontology..biological.process.,GO:0044209,AMP salvage
+S_fresh,Vitvi09g00629,D7U146,Gene.Ontology..biological.process.,GO:0006166,purine ribonucleoside salvage
+S_fresh,Vitvi09g00629,D7U146,Gene.Ontology..cellular.component.,GO:0005829,cytosol
+S_fresh,Vitvi09g00629,D7U146,Gene.Ontology..molecular.function.,GO:0003999,adenine phosphoribosyltransferase activity
+S_fresh,Vitvi09g00630,NA,NA,NA,NA
+P_rachis_weight,Vitvi09g00654,F6HXG6,Gene.Ontology..biological.process.,GO:0009451,RNA modification
+P_rachis_weight,Vitvi09g00654,F6HXG6,Gene.Ontology..molecular.function.,GO:0003723,RNA binding
+P_rachis_weight,Vitvi09g00654,F6HXG6,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+P_rachis_weight,Vitvi09g00653,D7U166,Gene.Ontology..molecular.function.,GO:0003824,catalytic activity
+P_rachis_weight,Vitvi09g00655,F6HXG7,Gene.Ontology..biological.process.,GO:0006284,base-excision repair
+P_rachis_weight,Vitvi09g00655,F6HXG7,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+P_rachis_weight,Vitvi09g00655,F6HXG7,Gene.Ontology..molecular.function.,GO:0003684,damaged DNA binding
+P_rachis_weight,Vitvi09g00655,F6HXG7,Gene.Ontology..molecular.function.,GO:0019104,DNA N-glycosylase activity
+P_rachis_weight,Vitvi09g00655,F6HXG7,Gene.Ontology..molecular.function.,GO:0003906,DNA-(apurinic or apyrimidinic site) endonuclease activity
+P_rachis_weight,Vitvi09g00655,F6HXG7,Gene.Ontology..molecular.function.,GO:0016829,lyase activity
+P_rachis_weight,Vitvi09g00655,F6HXG7,Gene.Ontology..molecular.function.,GO:0008534,oxidized purine nucleobase lesion DNA N-glycosylase activity
+P_rachis_weight,Vitvi09g00655,F6HXG7,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+B_shape,Vitvi09g01126,A0A438HLA0,Gene.Ontology..biological.process.,GO:0009773,photosynthetic electron transport in photosystem I
+B_shape,Vitvi09g01126,A0A438HLA0,Gene.Ontology..cellular.component.,GO:0009507,chloroplast
+B_shape,Vitvi09g01126,A0A438HLA0,Gene.Ontology..cellular.component.,GO:0010598,NAD(P)H dehydrogenase complex (plastoquinone)
+B_shape,Vitvi09g01126,D7T3T8,Gene.Ontology..biological.process.,GO:0009773,photosynthetic electron transport in photosystem I
+B_shape,Vitvi09g01126,D7T3T8,Gene.Ontology..cellular.component.,GO:0009507,chloroplast
+B_shape,Vitvi09g01126,D7T3T8,Gene.Ontology..cellular.component.,GO:0010598,NAD(P)H dehydrogenase complex (plastoquinone)
+B_shape,Vitvi09g01124,NA,NA,NA,NA
+B_shape,Vitvi09g01127,D7T3T9,Gene.Ontology..molecular.function.,GO:0016747,"acyltransferase activity, transferring groups other than amino-acyl groups"
+B_shape,Vitvi10g01968,NA,NA,NA,NA
+B_shape,Vitvi10g01207,F6H2Q1,Gene.Ontology..biological.process.,GO:0006468,protein phosphorylation
+B_shape,Vitvi10g01207,F6H2Q1,Gene.Ontology..cellular.component.,GO:0005886,plasma membrane
+B_shape,Vitvi10g01207,F6H2Q1,Gene.Ontology..molecular.function.,GO:0005524,ATP binding
+B_shape,Vitvi10g01207,F6H2Q1,Gene.Ontology..molecular.function.,GO:0004674,protein serine/threonine kinase activity
+H_cluster,Vitvi11g00203,A0A438E8F3,Gene.Ontology..cellular.component.,GO:0016020,membrane
+H_cluster,Vitvi11g00203,D7TBA3,Gene.Ontology..cellular.component.,GO:0016020,membrane
+H_cluster,Vitvi11g00205,A0A438E8B0,Gene.Ontology..biological.process.,GO:0009451,RNA modification
+H_cluster,Vitvi11g00205,A0A438E8B0,Gene.Ontology..molecular.function.,GO:0003723,RNA binding
+H_cluster,Vitvi11g00205,A0A438E8B0,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+H_cluster,Vitvi11g00205,F6HGR7,Gene.Ontology..biological.process.,GO:0009451,RNA modification
+H_cluster,Vitvi11g00205,F6HGR7,Gene.Ontology..cellular.component.,GO:0043231,intracellular membrane-bounded organelle
+H_cluster,Vitvi11g00205,F6HGR7,Gene.Ontology..molecular.function.,GO:0003723,RNA binding
+H_cluster,Vitvi11g00205,F6HGR7,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+H_cluster,Vitvi11g00206,NA,NA,NA,NA
+H_cluster,Vitvi11g00204,NA,NA,NA,NA
+B_height,Vitvi11g00256,A0A438DSA3,Gene.Ontology..biological.process.,GO:0042545,cell wall modification
+B_height,Vitvi11g00256,A0A438DSA3,Gene.Ontology..biological.process.,GO:0045490,pectin catabolic process
+B_height,Vitvi11g00256,A0A438DSA3,Gene.Ontology..molecular.function.,GO:0045330,aspartyl esterase activity
+B_height,Vitvi11g00256,A0A438DSA3,Gene.Ontology..molecular.function.,GO:0030599,pectinesterase activity
+B_height,Vitvi11g00256,F6HGY1,Gene.Ontology..biological.process.,GO:0042545,cell wall modification
+B_height,Vitvi11g00256,F6HGY1,Gene.Ontology..biological.process.,GO:0045490,pectin catabolic process
+B_height,Vitvi11g00256,F6HGY1,Gene.Ontology..molecular.function.,GO:0045330,aspartyl esterase activity
+B_height,Vitvi11g00256,F6HGY1,Gene.Ontology..molecular.function.,GO:0030599,pectinesterase activity
+B_height,Vitvi11g00258,NA,NA,NA,NA
+B_height,Vitvi11g00257,NA,NA,NA,NA
+B_width,Vitvi11g00454,D7TC02,Gene.Ontology..biological.process.,GO:0006857,oligopeptide transport
+B_width,Vitvi11g00454,D7TC02,Gene.Ontology..biological.process.,GO:0055085,transmembrane transport
+B_width,Vitvi11g00454,D7TC02,Gene.Ontology..cellular.component.,GO:0016020,membrane
+B_width,Vitvi11g00454,D7TC02,Gene.Ontology..molecular.function.,GO:0022857,transmembrane transporter activity
+B_width,Vitvi11g00454,A0A438C0R2,Gene.Ontology..biological.process.,GO:0006857,oligopeptide transport
+B_width,Vitvi11g00454,A0A438C0R2,Gene.Ontology..cellular.component.,GO:0016020,membrane
+B_width,Vitvi11g00454,A0A438C0R2,Gene.Ontology..molecular.function.,GO:0022857,transmembrane transporter activity
+B_width,Vitvi11g00454,A0A438JPX3,Gene.Ontology..cellular.component.,GO:0016020,membrane
+B_width,Vitvi11g00454,A0A438JPX3,Gene.Ontology..molecular.function.,GO:0022857,transmembrane transporter activity
+B_width,Vitvi11g00455,NA,NA,NA,NA
+P_cluster_loss,Vitvi11g01495,NA,NA,NA,NA
+P_cluster_loss,Vitvi11g00664,NA,NA,NA,NA
+P_cluster_loss,Vitvi11g00663,NA,NA,NA,NA
+H_rachis,Vitvi12g00380,F6HIC1,Gene.Ontology..biological.process.,GO:0009094,L-phenylalanine biosynthetic process
+H_rachis,Vitvi12g00380,F6HIC1,Gene.Ontology..cellular.component.,GO:0009507,chloroplast
+H_rachis,Vitvi12g00380,F6HIC1,Gene.Ontology..cellular.component.,GO:0009570,chloroplast stroma
+H_rachis,Vitvi12g00380,F6HIC1,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+H_rachis,Vitvi12g00380,F6HIC1,Gene.Ontology..molecular.function.,GO:0047769,arogenate dehydratase activity
+H_rachis,Vitvi12g00380,F6HIC1,Gene.Ontology..molecular.function.,GO:0004664,prephenate dehydratase activity
+H_rachis,Vitvi12g00382,A0A438ILD4,Gene.Ontology..molecular.function.,GO:0005507,copper ion binding
+H_rachis,Vitvi12g00382,A0A438ILD4,Gene.Ontology..molecular.function.,GO:0016491,oxidoreductase activity
+H_rachis,Vitvi12g00382,D7TE88,Gene.Ontology..molecular.function.,GO:0005507,copper ion binding
+H_rachis,Vitvi12g00382,D7TE88,Gene.Ontology..molecular.function.,GO:0016491,oxidoreductase activity
+H_rachis,Vitvi12g00381,D7TE87,Gene.Ontology..biological.process.,GO:0019344,cysteine biosynthetic process
+H_rachis,Vitvi12g00381,D7TE87,Gene.Ontology..biological.process.,GO:0019379,"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"
+H_rachis,Vitvi12g00381,D7TE87,Gene.Ontology..molecular.function.,GO:0004604,phosphoadenylyl-sulfate reductase (thioredoxin) activity
+H_rachis,Vitvi12g00381,B0LLV0,Gene.Ontology..molecular.function.,GO:0003824,catalytic activity
+S_fresh,Vitvi13g00739,NA,NA,NA,NA
+B_shape,Vitvi14g00215,F6I4K1,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+B_shape,Vitvi14g00215,F6I4K1,Gene.Ontology..molecular.function.,GO:0003714,transcription corepressor activity
+S_fresh,Vitvi14g00425,NA,NA,NA,NA
+S_fresh,Vitvi14g00427,NA,NA,NA,NA
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..biological.process.,GO:0045454,cell redox homeostasis
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..biological.process.,GO:0009658,chloroplast organization
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..biological.process.,GO:0045037,protein import into chloroplast stroma
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..biological.process.,GO:0080093,regulation of photorespiration
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..cellular.component.,GO:0009706,chloroplast inner membrane
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..cellular.component.,GO:0009534,chloroplast thylakoid
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..cellular.component.,GO:0062091,Ycf2/FtsHi complex
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..molecular.function.,GO:0005524,ATP binding
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..molecular.function.,GO:0016887,ATP hydrolysis activity
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..molecular.function.,GO:0004176,ATP-dependent peptidase activity
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..molecular.function.,GO:0016464,chloroplast protein-transporting ATPase activity
+S_fresh,Vitvi14g00472,D7TUI7,Gene.Ontology..molecular.function.,GO:0004222,metalloendopeptidase activity
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..biological.process.,GO:0045454,cell redox homeostasis
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..biological.process.,GO:0009658,chloroplast organization
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..biological.process.,GO:0045037,protein import into chloroplast stroma
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..biological.process.,GO:0080093,regulation of photorespiration
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..cellular.component.,GO:0009706,chloroplast inner membrane
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..cellular.component.,GO:0062091,Ycf2/FtsHi complex
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..molecular.function.,GO:0016464,chloroplast protein-transporting ATPase activity
+S_fresh,Vitvi14g00472,A0A438DRF0,Gene.Ontology..molecular.function.,GO:0008237,metallopeptidase activity
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..biological.process.,GO:0045454,cell redox homeostasis
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..biological.process.,GO:0009658,chloroplast organization
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..biological.process.,GO:0045037,protein import into chloroplast stroma
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..biological.process.,GO:0080093,regulation of photorespiration
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..cellular.component.,GO:0009706,chloroplast inner membrane
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..cellular.component.,GO:0062091,Ycf2/FtsHi complex
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..molecular.function.,GO:0016464,chloroplast protein-transporting ATPase activity
+S_fresh,Vitvi14g00472,A0A438IGU3,Gene.Ontology..molecular.function.,GO:0008237,metallopeptidase activity
+B_height,Vitvi14g03061,A0A438GHJ6,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+B_height,Vitvi14g03061,A0A438GHJ6,Gene.Ontology..cellular.component.,GO:0005576,extracellular region
+B_height,Vitvi14g03061,A0A438GHJ6,Gene.Ontology..molecular.function.,GO:0004185,serine-type carboxypeptidase activity
+B_height,Vitvi14g03061,D7SX69,Gene.Ontology..biological.process.,GO:0006508,proteolysis
+B_height,Vitvi14g03061,D7SX69,Gene.Ontology..cellular.component.,GO:0005576,extracellular region
+B_height,Vitvi14g03061,D7SX69,Gene.Ontology..cellular.component.,GO:0016020,membrane
+B_height,Vitvi14g03061,D7SX69,Gene.Ontology..molecular.function.,GO:0004185,serine-type carboxypeptidase activity
+B_height,Vitvi14g01907,D7SX70,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+B_height,Vitvi14g01907,D7SX70,Gene.Ontology..molecular.function.,GO:0003700,DNA-binding transcription factor activity
+B_height,Vitvi14g01907,D7SX70,Gene.Ontology..molecular.function.,GO:0043565,sequence-specific DNA binding
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..biological.process.,GO:0045727,positive regulation of translation
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..biological.process.,GO:0006412,translation
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..cellular.component.,GO:0005743,mitochondrial inner membrane
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..cellular.component.,GO:0005759,mitochondrial matrix
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..cellular.component.,GO:0005739,mitochondrion
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..molecular.function.,GO:0005525,GTP binding
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..molecular.function.,GO:0003924,GTPase activity
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..molecular.function.,GO:0097177,mitochondrial ribosome binding
+B_height,Vitvi14g01908,F6H5P1,Gene.Ontology..molecular.function.,GO:0043022,ribosome binding
+B_height,Vitvi14g01908,A0A438HDS0,Gene.Ontology..molecular.function.,GO:0005525,GTP binding
+B_height,Vitvi14g01908,A0A438HDS0,Gene.Ontology..molecular.function.,GO:0003924,GTPase activity
+B_height,Vitvi14g01909,F6H5P2,Gene.Ontology..biological.process.,GO:0006281,DNA repair
+B_height,Vitvi14g01909,F6H5P2,Gene.Ontology..biological.process.,GO:0016574,histone ubiquitination
+B_height,Vitvi14g01909,F6H5P2,Gene.Ontology..biological.process.,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process
+B_height,Vitvi14g01909,F6H5P2,Gene.Ontology..biological.process.,GO:0000209,protein polyubiquitination
+B_height,Vitvi14g01909,F6H5P2,Gene.Ontology..molecular.function.,GO:0061631,ubiquitin conjugating enzyme activity
+B_weight,Vitvi15g00014,F6I5H6,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+B_weight,Vitvi15g00014,F6I5H6,Gene.Ontology..molecular.function.,GO:0005524,ATP binding
+B_weight,Vitvi15g00014,F6I5H6,Gene.Ontology..molecular.function.,GO:0016887,ATP hydrolysis activity
+B_weight,Vitvi15g00014,F6I5H6,Gene.Ontology..molecular.function.,GO:0008094,"ATP-dependent activity, acting on DNA"
+B_weight,Vitvi15g00014,F6I5H6,Gene.Ontology..molecular.function.,GO:0140658,ATP-dependent chromatin remodeler activity
+B_weight,Vitvi15g00014,F6I5H6,Gene.Ontology..molecular.function.,GO:0003677,DNA binding
+B_weight,Vitvi15g00014,F6I5H6,Gene.Ontology..molecular.function.,GO:0017025,TBP-class protein binding
+P_rachis_weight,Vitvi15g00557,F6GVA8,Gene.Ontology..biological.process.,GO:0006629,lipid metabolic process
+P_rachis_weight,Vitvi15g00557,F6GVA8,Gene.Ontology..molecular.function.,GO:0004620,phospholipase activity
+S_fresh,Vitvi15g00911,NA,NA,NA,NA
+S_fresh,Vitvi15g00913,F6I2W2,Gene.Ontology..cellular.component.,GO:0016020,membrane
+S_fresh,Vitvi15g00914,NA,NA,NA,NA
+S_fresh,Vitvi15g01558,NA,NA,NA,NA
+S_fresh,Vitvi15g00912,A0A438IFA0,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+S_fresh,Vitvi15g00912,A0A438IFA0,Gene.Ontology..molecular.function.,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+S_fresh,Vitvi15g00912,A0A438IFA0,Gene.Ontology..molecular.function.,GO:0043565,sequence-specific DNA binding
+S_fresh,Vitvi15g00912,F6I2W3,Gene.Ontology..biological.process.,GO:0045893,positive regulation of DNA-templated transcription
+S_fresh,Vitvi15g00912,F6I2W3,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+S_fresh,Vitvi15g00912,F6I2W3,Gene.Ontology..molecular.function.,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+S_fresh,Vitvi15g00912,F6I2W3,Gene.Ontology..molecular.function.,GO:0043565,sequence-specific DNA binding
+S_fresh,Vitvi15g00915,D7U803,Gene.Ontology..cellular.component.,GO:0016020,membrane
+S_fresh,Vitvi15g00915,D7U803,Gene.Ontology..molecular.function.,GO:0020037,heme binding
+S_fresh,Vitvi15g00915,D7U803,Gene.Ontology..molecular.function.,GO:0005506,iron ion binding
+S_fresh,Vitvi15g00915,D7U803,Gene.Ontology..molecular.function.,GO:0004497,monooxygenase activity
+S_fresh,Vitvi15g00915,D7U803,Gene.Ontology..molecular.function.,GO:0016705,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"
+S_fresh,Vitvi15g00915,A0A438IF81,Gene.Ontology..cellular.component.,GO:0016020,membrane
+S_fresh,Vitvi15g00915,A0A438IF81,Gene.Ontology..molecular.function.,GO:0020037,heme binding
+S_fresh,Vitvi15g00915,A0A438IF81,Gene.Ontology..molecular.function.,GO:0005506,iron ion binding
+S_fresh,Vitvi15g00915,A0A438IF81,Gene.Ontology..molecular.function.,GO:0004497,monooxygenase activity
+S_fresh,Vitvi15g00915,A0A438IF81,Gene.Ontology..molecular.function.,GO:0016705,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"
+H_rachis,Vitvi16g00127,NA,NA,NA,NA
+H_rachis,Vitvi16g00128,NA,NA,NA,NA
+B_shape,Vitvi16g01838,NA,NA,NA,NA
+H_cluster,Vitvi17g01324,NA,NA,NA,NA
+H_cluster,Vitvi17g00053,A0A438K9N3,Gene.Ontology..cellular.component.,GO:0005886,plasma membrane
+H_cluster,Vitvi17g00053,A7PHN8,Gene.Ontology..cellular.component.,GO:0005886,plasma membrane
+H_cluster,Vitvi17g00053,A7PHN8,Gene.Ontology..molecular.function.,GO:0051539,"4 iron, 4 sulfur cluster binding"
+H_cluster,Vitvi17g00052,NA,NA,NA,NA
+B_width,Vitvi17g00516,F6GTB9,Gene.Ontology..cellular.component.,GO:0016020,membrane
+B_width,Vitvi17g00516,F6GTB9,Gene.Ontology..molecular.function.,GO:0022857,transmembrane transporter activity
+B_width,Vitvi17g00518,NA,NA,NA,NA
+B_width,Vitvi17g00519,F6GTB7,Gene.Ontology..biological.process.,GO:0055072,iron ion homeostasis
+B_width,Vitvi17g00519,F6GTB7,Gene.Ontology..biological.process.,GO:0016567,protein ubiquitination
+B_width,Vitvi17g00519,F6GTB7,Gene.Ontology..biological.process.,GO:0006511,ubiquitin-dependent protein catabolic process
+B_width,Vitvi17g00519,F6GTB7,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+B_width,Vitvi17g00519,F6GTB7,Gene.Ontology..molecular.function.,GO:0061630,ubiquitin protein ligase activity
+B_width,Vitvi17g00519,F6GTB7,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+B_width,Vitvi17g00519,A0A438I364,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+P_cluster_weight,Vitvi18g00096,NA,NA,NA,NA
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..biological.process.,GO:0000387,spliceosomal snRNP assembly
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0071013,catalytic step 2 spliceosome
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0000243,commitment complex
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0005829,cytosol
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0034715,pICln-Sm protein complex
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0071011,precatalytic spliceosome
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0034719,SMN-Sm protein complex
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0097526,spliceosomal tri-snRNP complex
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0005685,U1 snRNP
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0005689,U12-type spliceosomal complex
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0005686,U2 snRNP
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0005687,U4 snRNP
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..cellular.component.,GO:0005682,U5 snRNP
+P_cluster_weight,Vitvi18g00098,D7UD96,Gene.Ontology..molecular.function.,GO:0003723,RNA binding
+P_cluster_weight,Vitvi18g00099,D7UD95,Gene.Ontology..biological.process.,GO:0000479,"endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+P_cluster_weight,Vitvi18g00099,D7UD95,Gene.Ontology..biological.process.,GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+P_cluster_weight,Vitvi18g00099,D7UD95,Gene.Ontology..cellular.component.,GO:0005730,nucleolus
+P_cluster_weight,Vitvi18g00099,D7UD95,Gene.Ontology..cellular.component.,GO:0030688,"preribosome, small subunit precursor"
+P_cluster_weight,Vitvi18g00099,D7UD95,Gene.Ontology..molecular.function.,GO:0005525,GTP binding
+P_cluster_weight,Vitvi18g00099,D7UD95,Gene.Ontology..molecular.function.,GO:0003924,GTPase activity
+P_cluster_weight,Vitvi18g00099,D7UD95,Gene.Ontology..molecular.function.,GO:0034511,U3 snoRNA binding
+B_width,Vitvi18g00658,NA,NA,NA,NA
+B_width,Vitvi18g00660,E0CP23,Gene.Ontology..biological.process.,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process
+B_width,Vitvi18g00660,E0CP23,Gene.Ontology..biological.process.,GO:0000209,protein polyubiquitination
+B_width,Vitvi18g00660,E0CP23,Gene.Ontology..biological.process.,GO:0006283,transcription-coupled nucleotide-excision repair
+B_width,Vitvi18g00660,E0CP23,Gene.Ontology..cellular.component.,GO:0031464,Cul4A-RING E3 ubiquitin ligase complex
+B_width,Vitvi18g00660,E0CP23,Gene.Ontology..cellular.component.,GO:0000109,nucleotide-excision repair complex
+B_width,Vitvi18g00659,NA,NA,NA,NA
+B_shape,Vitvi18g02812,NA,NA,NA,NA
+B_shape,Vitvi18g02813,F6H1M5,Gene.Ontology..biological.process.,GO:0006379,mRNA cleavage
+B_shape,Vitvi18g02813,F6H1M5,Gene.Ontology..biological.process.,GO:0006363,termination of RNA polymerase I transcription
+B_shape,Vitvi18g02813,F6H1M5,Gene.Ontology..cellular.component.,GO:0005736,RNA polymerase I complex
+B_shape,Vitvi18g02813,F6H1M5,Gene.Ontology..molecular.function.,GO:0003899,DNA-directed 5-3 RNA polymerase activity
+B_shape,Vitvi18g02813,F6H1M5,Gene.Ontology..molecular.function.,GO:0003676,nucleic acid binding
+B_shape,Vitvi18g02813,F6H1M5,Gene.Ontology..molecular.function.,GO:0008270,zinc ion binding
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..biological.process.,GO:0007015,actin filament organization
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..biological.process.,GO:0030865,cortical cytoskeleton organization
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..biological.process.,GO:0007163,establishment or maintenance of cell polarity
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..biological.process.,GO:0032956,regulation of actin cytoskeleton organization
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..biological.process.,GO:0008360,regulation of cell shape
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..biological.process.,GO:0007264,small GTPase mediated signal transduction
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..cellular.component.,GO:0005938,cell cortex
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..cellular.component.,GO:0042995,cell projection
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..cellular.component.,GO:0031410,cytoplasmic vesicle
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..cellular.component.,GO:0005856,cytoskeleton
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..cellular.component.,GO:0005886,plasma membrane
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..molecular.function.,GO:0005525,GTP binding
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..molecular.function.,GO:0003924,GTPase activity
+B_shape,Vitvi18g01149,A5CAU5,Gene.Ontology..molecular.function.,GO:0019901,protein kinase binding
+B_shape,Vitvi18g01148,NA,NA,NA,NA
+S_fresh,Vitvi18g01490,NA,NA,NA,NA
+H_cluster,Vitvi18g01492,NA,NA,NA,NA
+H_cluster,Vitvi18g01493,NA,NA,NA,NA
+B_width,Vitvi18g01774,NA,NA,NA,NA
+B_width,Vitvi18g01775,D7SRK9,Gene.Ontology..molecular.function.,GO:0003723,RNA binding
+P_cluster_weight,Vitvi18g01775,D7SRK9,Gene.Ontology..molecular.function.,GO:0003723,RNA binding
+P_cluster_weight,Vitvi18g01776,NA,NA,NA,NA
+S_dry,Vitvi18g01868,NA,NA,NA,NA
+S_dry,Vitvi18g01869,F6GYT1,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+S_dry,Vitvi18g01869,F6GYT1,Gene.Ontology..molecular.function.,GO:0019136,deoxynucleoside kinase activity
+S_dry,Vitvi18g01869,Q6Y0E8,Gene.Ontology..biological.process.,GO:0016310,phosphorylation
+S_dry,Vitvi18g01869,Q6Y0E8,Gene.Ontology..molecular.function.,GO:0016301,kinase activity
+P_rachis_weight,Vitvi18g01868,NA,NA,NA,NA
+P_rachis_weight,Vitvi18g01869,F6GYT1,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+P_rachis_weight,Vitvi18g01869,F6GYT1,Gene.Ontology..molecular.function.,GO:0019136,deoxynucleoside kinase activity
+P_rachis_weight,Vitvi18g01869,Q6Y0E8,Gene.Ontology..biological.process.,GO:0016310,phosphorylation
+P_rachis_weight,Vitvi18g01869,Q6Y0E8,Gene.Ontology..molecular.function.,GO:0016301,kinase activity
+S_dry,Vitvi18g01875,F6GYS5,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+S_dry,Vitvi18g01875,F6GYS5,Gene.Ontology..molecular.function.,GO:0003700,DNA-binding transcription factor activity
+S_dry,Vitvi18g01875,F6GYS5,Gene.Ontology..molecular.function.,GO:0043565,sequence-specific DNA binding
+B_width,Vitvi18g01879,NA,NA,NA,NA
+B_width,Vitvi18g01880,NA,NA,NA,NA
+B_width,Vitvi18g01881,NA,NA,NA,NA
+S_fresh,Vitvi18g01898,NA,NA,NA,NA
+S_fresh,Vitvi18g03065,NA,NA,NA,NA
+S_dry,Vitvi18g01899,NA,NA,NA,NA
+S_dry,Vitvi18g01900,NA,NA,NA,NA
+S_fresh,Vitvi18g01899,NA,NA,NA,NA
+S_fresh,Vitvi18g01900,NA,NA,NA,NA
+P_cluster_loss,Vitvi18g03067,NA,NA,NA,NA
+S_dry,Vitvi18g01937,NA,NA,NA,NA
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..biological.process.,GO:0042149,cellular response to glucose starvation
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..biological.process.,GO:0006468,protein phosphorylation
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..biological.process.,GO:0050790,regulation of catalytic activity
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..cellular.component.,GO:0031588,nucleotide-activated protein kinase complex
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..molecular.function.,GO:0016208,AMP binding
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..molecular.function.,GO:0019901,protein kinase binding
+S_fresh,Vitvi19g00252,E0CSN4,Gene.Ontology..molecular.function.,GO:0019887,protein kinase regulator activity
+S_fresh,Vitvi19g00251,NA,NA,NA,NA
+S_fresh,Vitvi19g00425,NA,NA,NA,NA
+S_fresh,Vitvi19g00424,NA,NA,NA,NA
+S_dry,Vitvi19g00425,NA,NA,NA,NA
+S_dry,Vitvi19g00424,NA,NA,NA,NA
+S_fresh,Vitvi19g00625,F6HER8,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+S_fresh,Vitvi19g00625,F6HER8,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+S_fresh,Vitvi19g00626,D7T886,Gene.Ontology..cellular.component.,GO:0005737,cytoplasm
+S_fresh,Vitvi19g00626,D7T886,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+S_fresh,Vitvi19g00627,F6HER9,Gene.Ontology..cellular.component.,GO:0016020,membrane
+S_fresh,Vitvi19g00627,F6HER9,Gene.Ontology..molecular.function.,GO:0050660,flavin adenine dinucleotide binding
+P_rachis_weight,Vitvi19g00932,D7UAV5,Gene.Ontology..biological.process.,GO:0010014,meristem initiation
+P_rachis_weight,Vitvi19g00932,D7UAV5,Gene.Ontology..biological.process.,GO:0006355,regulation of DNA-templated transcription
+P_rachis_weight,Vitvi19g00932,D7UAV5,Gene.Ontology..cellular.component.,GO:0005634,nucleus
+P_rachis_weight,Vitvi19g00932,D7UAV5,Gene.Ontology..molecular.function.,GO:0003700,DNA-binding transcription factor activity
+P_rachis_weight,Vitvi19g00932,D7UAV5,Gene.Ontology..molecular.function.,GO:0043565,sequence-specific DNA binding
