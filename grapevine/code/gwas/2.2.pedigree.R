@@ -28,7 +28,7 @@ geno_info = data.frame(Geno = common_genos) %>%
 G_grape = G_grape[common_genos,common_genos]
 M_grape = M_grape[common_genos,]
 
-#PCA as EVD
+ #PCA as EVD
 dim(G_grape)
 EVD = eigen(G_grape)
 EVD.varexp = round(100*(EVD$values^2)[1:3]/sum(EVD$values^2),2)
@@ -131,5 +131,5 @@ pedigree = right_join(geno_info, df.SVD[,c('Geno', 'new_group')])
 pedigree[1,'new_group'] = 'jardin'
 pedigree$family = pedigree$new_group
 pedigree$group = pedigree$new_group = NULL
-write_csv(geno_info, file = '../../data/clean/pedigree.csv')
+write_csv(pedigree, file = '../../data/clean/pedigree.csv')
 
