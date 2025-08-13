@@ -1,4 +1,4 @@
-#Predicciones 0.4 GP models deployment
+# GP models deployment
 # - kernel methods: ABLUP, GBLUP, HBLUP, RKHS
 # - bayesian and ML: BayesB, Bayesian LASSO, XGBoost
 
@@ -26,7 +26,7 @@ M.full = as.matrix(M.full[,-1])
 rownames(M.full) = genonames
 M.full = M.full[levels(pheno$GID),]
 
-# naive split
+# load splits
 load('../../data/gs/splits.RData')
 
 # parameter box - this is controlled by an i index when it is parallelized in the cluster
