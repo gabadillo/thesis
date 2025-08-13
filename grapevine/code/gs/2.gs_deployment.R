@@ -122,7 +122,7 @@ for (k in 1:length(split$folds)){
   RKHS.models
   h.best<-hvec[which.min(RKHS.models)]
   
-  Amat.RKHS<-exp(-h.best*(Eucl.distance)^2/(2))
+  Amat.RKHS<-exp(-h.best*(Eucl.distance)^2)
   
   Z.train = model.matrix(~pheno[train.index,"GID"]-1)
   Z.test = model.matrix(~pheno[test.index,"GID"]-1)
@@ -204,5 +204,3 @@ output = data.frame(Trait = trait, Scenario = scenario, Subset = subset, Rep = r
 output
 write_csv(output, sprintf('../../output/example_%s.csv', trait))
 
-df_times = data.frame(model = rep(models,k), time = diff(times))
-df_times
