@@ -1,0 +1,8 @@
+Trait,Scenario,Subset,Rep,Model,Cor
+B_weight,D,all,1,ABLUP,0.24529066361584495
+B_weight,D,all,1,GBLUP,0.5490606427789717
+B_weight,D,all,1,HBLUP,0.5490606427789707
+B_weight,D,all,1,RKHS,0.4594936486227569
+B_weight,D,all,1,BayesB,0.41701683251482496
+B_weight,D,all,1,BayesL,0.5189890183357971
+B_weight,D,all,1,XGBoost,0.4347163262698807
