@@ -123,4 +123,4 @@ output.df = data.frame(
   a.Value = a.cors,
   b.Value = b.cors)
 
-write_csv(output.df, file = sprintf('../data/output/cluster/rep_%s.csv', i))
+write_csv(output.df, file = sprintf('../output/cluster/rep_%s.csv', i))

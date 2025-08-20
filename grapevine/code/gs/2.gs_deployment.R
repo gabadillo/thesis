@@ -201,6 +201,6 @@ models = c('ABLUP', 'GBLUP', 'HBLUP', 'RKHS', 'BayesB', 'BayesL', 'XGBoost')
 
 output = data.frame(Trait = trait, Scenario = scenario, Subset = subset, Rep = r,
                     Model = models, Cor = cors)
-output
-write_csv(output, sprintf('../../output/example_%s.csv', trait))
+#output
+#write_csv(output, sprintf('../../output/example_%s.csv', trait))
 

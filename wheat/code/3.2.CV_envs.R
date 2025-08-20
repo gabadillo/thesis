@@ -142,7 +142,7 @@ output.df = data.frame(Trial = rep(Trials,each=length(Ys)*Reps*length(Models)),
 
 output.df$Value = c(cors, rep(NA,nrow(output.df)-length(cors)))
 ##################################################
-#write_csv(output.df, file = '../data/output/scenario2.csv')
+#write_csv(output.df, file = '../output/scenario2.csv')
 
 
 

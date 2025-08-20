@@ -115,7 +115,7 @@ output.df = data.frame(
   Value = cors
 )
 
-#write_csv(output.df, file = "../data/output/scenario1.csv")
+#write_csv(output.df, file = "../output/scenario1.csv")
 
   
   
