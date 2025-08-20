@@ -10,6 +10,7 @@ traits = colnames(pheno)[-c(1:2)]
 # BGLR params
 nIter = 12000
 burnIn = 2000
+thin = 5
 
 output = list()
 dir.create('logs')
@@ -26,11 +27,17 @@ for (file in files){
       y = pheno[,trait]
       yNA = y
       yNA[folds[,i] != 2] = NA
-      fm1 = BGLR(y = yNA, ETA = ETA[1:2], nIter = nIter, burnIn = burnIn, verbose = FALSE, saveAt = 'logs/fm1_')
+      fm1 = BGLR(y = yNA, ETA = ETA[1:2], 
+                 nIter = nIter, burnIn = burnIn, thin = thin, 
+                 verbose = FALSE, saveAt = 'logs/fm1_')
       cat(' fm1')
-      fm2 = BGLR(y = yNA, ETA = ETA[1:3], nIter = nIter, burnIn = burnIn, verbose = FALSE, saveAt = 'logs/fm2_')
+      fm2 = BGLR(y = yNA, ETA = ETA[1:3], 
+                 nIter = nIter, burnIn = burnIn, thin = thin, 
+                 verbose = FALSE, saveAt = 'logs/fm2_')
       cat(' fm2')
-      fm3 = BGLR(y = yNA, ETA = ETA[1:4], nIter = nIter, burnIn = burnIn, verbose = FALSE, saveAt = 'logs/fm3_')
+      fm3 = BGLR(y = yNA, ETA = ETA[1:4], 
+                 nIter = nIter, burnIn = burnIn, thin = thin, 
+                 verbose = FALSE, saveAt = 'logs/fm3_')
       cat(' fm3\n')
       testSet = which(folds[,sc] == 1)
       output[[sprintf('%s_%s_%s', trait, sc, rep)]] = data.frame(Trait = trait, Rep = rep, Scheme = sc, 
